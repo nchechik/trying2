@@ -113,6 +113,7 @@ namespace BE
             s += "Employee of the Ministry of Education: " + HINUCH + "\n";
             s += "Recommendations: " + Recommendations + "\n";
             return s;
+            int g;
         }
 
     }
